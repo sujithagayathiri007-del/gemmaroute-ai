@@ -1,28 +1,31 @@
-# GEMMAROUTE AI
+# 🚚 GEMMAROUTE AI
 
 AI Powered Last-Meter Delivery Navigation System
 
 ## Features
 - AI Address Simplification
 - Landmark Navigation
-- Tamil Voice Guidance
-- English Voice Guidance
+- Tamil Voice Support
 - GPS Simulation
-- Smart Delivery Routing
+- Delivery Priority Modes
 
 ## Tech Stack
-- React
+- React.js
 - FastAPI
 - Python
-- Vite
-- Browser Speech API
+- JavaScript
+- Gemma 4
+
+## Project Goal
+This project simplifies complex Indian delivery addresses into easy landmark-based navigation instructions using AI.
 
 ## Frontend
-cd frontend
-npm install
-npm run dev
+React + Vite
 
 ## Backend
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
+FastAPI
+
+## Future Improvements
+- Real GPS Integration
+- Offline AI Routing
+- Smart Delivery Optimization
